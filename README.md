@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GursimranSingh21
+- 👋 Hi, I’m GursimranSingh
 - 👀 I’m interested in coding and networking 
 - 🌱 I’m currently learning MYSQL , LINUX AND NETWORKING 
 - 💞️ I’m looking to collaborate on COMPUTER NERTWORKING PROJECT, PYTHON CODING AND SQL
