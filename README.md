@@ -1,10 +1,12 @@
-- 👋 Hi, I’m GursimranSingh
-- 👀 I’m interested in coding and networking 
-- 🌱 I’m currently learning MYSQL , LINUX AND NETWORKING 
-- 💞️ I’m looking to collaborate on COMPUTER NERTWORKING PROJECT, PYTHON CODING AND SQL
-- 📫 How to reach me LINKEDIN (https://www.linkedin.com/in/gursimran-singh-990579265 )
+👋 Hi, I’m Gursimran Singh  
 
-<!---
-GursimranSingh21/GursimranSingh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about technology, and I’m constantly exploring **coding, networking, and IT solutions** to enhance my skills and solve real-world problems.  
+
+💡 I’m eager to learn and collaborate on projects related to **computer networking, Python development, and SQL** to expand my expertise.  
+
+📚 Always open to new challenges, and I strive to grow as a developer and IT professional.  
+
+📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/gursimran-singh-990579265/)** to discuss ideas and opportunities!  
+```  
+
+Let me know if you'd like any tweaks! 🚀
